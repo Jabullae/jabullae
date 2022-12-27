@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World😃😃&fontSize=50animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!😃😃&fontSize=50&animation=twinkling)
 
 # 🎈자벌레의 Github에 오신것을 환영합니다~
 - 성장기입니다 ㅎㅎ

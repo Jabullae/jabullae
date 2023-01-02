@@ -1,9 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!😃😃&fontSize=50&animation=twinkling)
 
-# 🎈자벌레의 Github에 오신것을 환영합니다~
-- 성장기입니다 ㅎㅎ
+# <div align = 'center'>🎈Welcome My Github~</div>
+- practice and practice...
 <br>
 
-# 🖥사용하는 Tool
-<img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
+# <div align = 'center'>🌍Stack</div>
+<br>
+
+## 🌈Languages
+
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
+
+
+
 
